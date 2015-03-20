@@ -1,3 +1,3 @@
 # PixelForce Systems Guides
 
-Guides to get things done, programming well, and corperate well with your workmates.
+Guides to get things done, programming well, and collaborate well with your workmates.
